@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433518283096",
+    "project_id": "yameapp2021",
+    "storage_bucket": "yameapp2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433518283096:android:0df085be4b9648cbd8bd2d",
+        "android_client_info": {
+          "package_name": "com.yame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433518283096-0vhu5h59rgd59qhb5cs2lke29d9acmvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yame",
+            "certificate_hash": "2c9fb3b1151dd925125712db3d52f33b45f6e19f"
+          }
+        },
+        {
+          "client_id": "433518283096-2svg8vn056f00qb0u9nivr5hbn2g5ei4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwwP6qciQd7WC1ZkZy6DvlG6CaIRjXMGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433518283096-2svg8vn056f00qb0u9nivr5hbn2g5ei4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
